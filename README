@@ -1,0 +1,11 @@
+# Build
+
+```
+mkdir build && cd build
+cmake --build .
+cmake .
+```
+
+## Output Files
+
+`build/client/client`
